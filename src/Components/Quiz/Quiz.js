@@ -8,7 +8,7 @@ const Quiz = () => {
     return (
         <div>
 
-            <div className='grid grid-cols-4'>
+            <div className='grid lg:grid-cols-4 justify-center'>
                 {
                     quizs.map(qz => <Singlequiz
                         key={qz.id}
