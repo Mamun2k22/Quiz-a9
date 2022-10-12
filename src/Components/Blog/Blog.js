@@ -12,8 +12,8 @@ const Blog = () => {
                 </div>
                 {/* How does context api work? */}
                 <div className='mb-10 bg-zinc-800 text-white p-8 rounded-lg '>
-                    <h2 className='text-2xl font-bold text-amber-300'>02. How does context api work?</h2>
-                    <p><span className='text-xl font-bold text-amber-400'>Ans:</span> <span className='text-xl font-semibold'>T</span>he React Context API is a way for a React app to effectively produce global variables that can be passed around. This is the alternative to "prop drilling" or moving props from grandparent to child to parent, and so on. Context is also touted as an easier, lighter approach to state management using Redux.</p>
+                    <h2 className='text-2xl font-bold text-amber-300'>02. how does context api work?</h2>
+                    <p><span className='text-xl font-bold text-amber-400'>Ans:</span> <span className='text-xl font-semibold'>T</span>The React Context API is a way for a React app to effectively produce global variables that can be passed around. This is the alternative to "prop drilling" or moving props from grandparent to child to parent, and so on. Context is also touted as an easier, lighter approach to state management using Redux.</p>
                 </div>
                 {/* what is useRef hook in react? */}
                 <div className='mb-10 bg-zinc-800 text-white p-8 rounded-lg '>
