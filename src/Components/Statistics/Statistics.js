@@ -7,6 +7,7 @@ const Statistics = () => {
     const chartData = chart.data;
     return (
         <div >
+            <h2 className='text-xl'> This is Static Page</h2>
             <div className='mt-10 '>
                 <LineChart width={500}
                     height={300}
